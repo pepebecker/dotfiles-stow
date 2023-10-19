@@ -1,0 +1,14 @@
+[user]
+	name = Pepe Becker
+[core]
+	excludesfile = /Users/pepe/.gitignore_global
+	editor = lazy
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main
+[gpg]
+	program = /usr/local/MacGPG2/bin/gpg2
+[diff "lockb"]
+	textconv = bun
+	binary = true

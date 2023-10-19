@@ -1,0 +1,15 @@
+[submodule "alacritty/.config/alacritty/catppuccin"]
+	path = alacritty/.config/alacritty/catppuccin
+	url = git@github.com:catppuccin/alacritty.git
+[submodule "emacs/.config/emacs"]
+	path = emacs/.config/emacs
+	url = git@github.com:doomemacs/doomemacs.git
+[submodule "nvim/.config/nvim-LazyVim"]
+	path = nvim/.config/nvim-LazyVim
+	url = git@github.com:pepebecker/LazyVim.git
+[submodule "nvim/.config/nvim-nvchad"]
+	path = nvim/.config/nvim-NvChad
+	url = git@github.com:pepebecker/NvChad.git
+[submodule "nvim/.config/nvim-NvChad"]
+	path = nvim/.config/nvim-NvChad
+	url = git@github.com:pepebecker/NvChad.git
